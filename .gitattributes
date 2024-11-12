@@ -1,0 +1,3 @@
+* -text -diff binary
+*.git* text diff
+*.md* text diff
